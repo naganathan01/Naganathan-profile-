@@ -1,4 +1,3 @@
-<!-- Enhanced GitHub Profile README for Naganathan Paramasivam -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Naganathan+Paramasivam;DevOps+%26+AIOps+Engineer;AWS+Certified+Solutions+Architect;Cloud+Automation+%7C+CI%2FCD+%7C+Kubernetes+%7C+AI" alt="Typing Animation" />
