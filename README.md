@@ -64,7 +64,7 @@
 
 ### 💻 Frontend & Backend (for Full-Stack Projects)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,postman" />
 </p>
 
 ---
