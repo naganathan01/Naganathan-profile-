@@ -59,7 +59,8 @@ I'm an **AWS Certified Solutions Architect** and **DevOps Engineer** with over *
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="65" height="65" />
+      <img src="[https://techstack-generator.vercel.app/terraform-icon.svg](https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000)" alt="Terraform" width="65" height="65" />
+      
       <br>Terraform
     </td>
   </tr>
