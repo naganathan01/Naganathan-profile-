@@ -59,7 +59,7 @@ I'm an **AWS Certified Solutions Architect** and **DevOps Engineer** with over *
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="65" height="65" />
       
       <br>Terraform
     </td>
