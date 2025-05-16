@@ -57,11 +57,7 @@ I'm an **AWS Certified Solutions Architect** and **DevOps Engineer** with over *
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-      <img src="https://www.canva.com/design/DAGnn4bzJ8o/6lN54m_Nv2PnHdYZF4_Mjg/watch?utm_content=DAGnn4bzJ8o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae32d8bed9" width="65" height="65" />
-      
-      <br>Terraform
-    </td>
+    
   </tr>
 </table>
 
