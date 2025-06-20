@@ -1,98 +1,78 @@
-# Hi there, I'm Naganathan! 👋
+# 👋 Hi, I'm Naganathan Paramasivam (Nathan)
 
-## MLOps Engineer | Scaling ML Models in Production
+🚀 **DevOps & MLOps Engineer | AWS Certified | Scaler DSML 2025**
 
-I'm passionate about bridging the gap between Data Science and Operations, making ML models work reliably at scale. With 4+ years in DevOps, I've transitioned to MLOps where I help organizations deploy models that serve millions without breaking a sweat.
-
-### 🚀 What I Do
-
-- **Build Production ML Systems**: Deploy models handling 50M+ daily predictions with 99.9% uptime
-- **Optimize Infrastructure**: Reduce costs by 40% while improving performance
-- **Automate Everything**: From data pipelines to model monitoring and retraining
-- **Ensure Reliability**: Because ML in production should be boring - it just works!
-
-### 💼 Professional Impact
-
-```python
-impact = {
-    "predictions_served_daily": "50M+",
-    "system_uptime": "99.9%",
-    "response_time": "<100ms",
-    "cost_savings": "$3.2M annually",
-    "fraud_prevented": "$2.3M in 6 months",
-    "automation_rate": "75% of DevOps tasks"
-}
-```
-
-### 🛠️ Tech Stack
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**MLOps & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Monitoring & CI/CD**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🏆 Featured Projects
-
-#### 1. [Multi-Modal AI Content Moderation Platform](https://github.com/naganathan01/content-moderation)
-*Processing 50M+ content pieces daily across text, image, and audio*
-- **Tech**: BERT, CLIP, Wav2Vec2, Kubernetes, MLflow
-- **Impact**: 78% reduction in manual moderation, $3.2M annual savings
-- **Performance**: 97.2% accuracy, <250ms response time
-
-#### 2. [Real-Time Fraud Detection System](https://github.com/naganathan01/fraud-detection)
-*Preventing millions in fraudulent transactions with ML*
-- **Tech**: XGBoost, Kafka, Redis, AWS ECS
-- **Impact**: $2.3M fraud prevented, 67% fewer false positives
-- **Performance**: 15,000 TPS, <85ms latency, 94.8% precision
-
-#### 3. [Smart Customer Support Ticket Classifier](https://github.com/naganathan01/ticket-classifier)
-*Automating support ticket routing with NLP*
-- **Tech**: FastAPI, AWS Lambda, Multi-model ensemble
-- **Impact**: 85% reduction in routing time, $247K annual savings
-- **Performance**: 92% accuracy, 10,000+ tickets/day
-
-#### 4. [Kubia AI - AIOps Automation Platform](https://github.com/naganathan01/kubia-ai)
-*Natural language DevOps automation*
-- **Tech**: NLP, Kubernetes, Kafka, Time-series ML
-- **Impact**: 75% reduction in operational tasks, 65% auto-resolution
-- **Performance**: 5000+ daily automations, 89% prediction accuracy
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naganathan01&show_icons=true&theme=dark)
-
-### 📈 Current Focus
-
-- 🔍 Real-time ML inference optimization
-- 🎯 Multi-model orchestration strategies
-- 📊 Advanced monitoring and observability for ML
-- 🚀 Building MLOps best practices
-
-### 🎓 Certifications & Learning
-
-- ✅ AWS Certified Solutions Architect - Associate
-- 📚 Currently: AWS ML Specialty, CKA
-- 🌱 Always learning: MLOps, Distributed Systems, System Design
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naganathan-paramasivam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathannathan42242@gmail.com)
+Welcome to my GitHub! I'm a passionate MLOps Engineer with over 3 years of experience (transitioned from DevOps) in building scalable, production-grade ML systems. I specialize in deploying and maintaining ML models with end-to-end automation, infrastructure as code, and monitoring systems to ensure model reliability and business impact.
 
 ---
 
-💡 **Open to collaborating on MLOps projects and discussing production ML challenges!**
+## 💼 Current Role
+**MLOps Engineer | Arthur Grand Technologies**  
+📅 *Sep 2021 - Present*
 
-⚡ **Fun fact**: I believe ML models should be boring in production - predictable, reliable, and just work!
+- 📈 Processed **50M+ predictions daily** using **MLflow**, **Kubernetes**, and **AWS SageMaker**
+- ⚡ Deployed real-time inference systems handling **15,000+ TPS with sub-100ms latency** using **FastAPI** & **Redis**
+- 🧪 Automated A/B testing, versioning & CI/CD with **GitHub Actions** and **Terraform**
+- 📉 Implemented **Prometheus + Grafana** dashboards for performance and drift monitoring
+- ☁️ Achieved **40% cost reduction** using auto-scaling & spot instances on **AWS**
+- 📊 Designed feature pipelines processing **100+ TB/month**, boosting model accuracy by **15%**
+
+---
+
+## 🔧 Tech Stack & Skills
+
+**Languages & Frameworks:**  
+`Python` | `FastAPI` | `Terraform` | `Bash`
+
+**MLOps & DevOps Tools:**  
+`MLflow` | `AWS SageMaker` | `Kubernetes` | `Docker` | `GitHub Actions` | `Prometheus` | `Grafana`
+
+**Cloud & Infra:**  
+`AWS (ECS, EC2, S3, EKS)` | `Redis` | `Kafka` | `Git`
+
+**Model Types:**  
+`XGBoost` | `LightGBM` | `LSTM` | `Neural Networks` | `Prophet`
+
+---
+
+## 📂 Projects
+
+### 🔐 Real-Time Fraud Detection System
+- Processed **15,000+ transactions/sec** using **Kafka**, **Redis**, and ensemble models
+- Prevented **$2.3M in fraud** with **94.8% precision**, **91.2% recall**
+- Used blue-green deployments with **AWS ECS**, circuit breakers, and auto rollbacks
+
+### 🤖 Kubia AI - Intelligent AIOps Platform
+- NLP-based automation reduced ops overhead by **75%**
+- Integrated with **Slack**, **Freshservice**, predictive failure detection with **LSTM**
+- Enabled **self-healing for 65%+ incidents**, reducing MTTR from 45 to 8 mins
+
+### 📊 ModelWatch - ML Monitoring System
+- Real-time monitoring for **50+ production models**
+- Enabled **automated retraining** based on drift detection
+- Integrated with **Slack** and **PagerDuty** for ML incident management
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Scaler Academy** (2025 - Ongoing)  
+Specialization in Data Science & Machine Learning
+
+🎓 **BCA - Jamal Mohammed College** (2021)  
+Major in Computer Science & IT
+
+✅ **AWS Certified Solutions Architect – Associate**  
+📌 *Planning: AWS Certified Machine Learning – Specialty*
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/naganathan-p-aa6b751a9/)
+- 💻 [GitHub](https://github.com/naganathan01/Naganathan-profile-)
+- 📧 Email: nathannathan42242@gmail.com
+
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my projects and contributions.*
